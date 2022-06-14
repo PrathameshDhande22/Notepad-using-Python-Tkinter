@@ -6,6 +6,7 @@ The Notepad also has the Function of Light and Dark Theme. <br />
 ## Below Are Some Screenshots of the Notepad.<br />
 
 <p align="center">
+<h5>1. First Look Of the Notepad After Opening</h5> <br />
 <img src="https://user-images.githubusercontent.com/87264935/173215078-86daddbc-a312-41ac-82cd-414316227c42.png" height="500" Title="Opening" alt="Looks of the Notepad">
 </p>
                                                                                                                                                    
