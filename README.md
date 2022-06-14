@@ -20,7 +20,7 @@ The Notepad also has the Function of Light and Dark Theme. <br />
 </p>
 
 ## Below is the Animation Of the Notepad <br />
-<img src="https://user-images.githubusercontent.com/87264935/173510155-68c0d9cd-4f4e-4ae2-ae9c-6dc1ff44d446.gif" height="700" width="500" Title="Opening" alt="Looks of the Notepad">
+<img src="https://user-images.githubusercontent.com/87264935/173510155-68c0d9cd-4f4e-4ae2-ae9c-6dc1ff44d446.gif" height="700" width="800" Title="Opening" alt="Looks of the Notepad">
 
 ## Author : Prathamesh Dhande
                                                                                                                                                                                                                                                                                                 
